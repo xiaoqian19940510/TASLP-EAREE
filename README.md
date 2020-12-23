@@ -1,5 +1,5 @@
 ## 数据及预训练模型准备
-(1)将比赛数据集train.json和test.json放置在dataset文件中
+(1)将数据集train.json和test.json放置在dataset文件中
 (2)将预训练模型放置在pretrained_model中，
      对于分类模型，可在CCKS-Bert-Multi-Label-Text-Classification\pybert\configs\basic_config.py进行路径修改
 	 对于阅读理解模型，可在CCKS-Mrc\config\args.py进行路径修改
