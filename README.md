@@ -49,9 +49,7 @@ unzip stanford-corenlp-full-2018-10-05.zip
 
 # Settings
 1) TC\pybert\configs\basic_config.py
-
 2) AI_RC\config\args.py
-
 
 # Event Classification
 1) python TC_preprocess.py
@@ -65,5 +63,21 @@ unzip stanford-corenlp-full-2018-10-05.zip
 3) python train_start.py
 4) python test.py
 
-
 ```
+
+## Results
+
+<p align="center">
+<img src="./img/result.png" height = "300" alt="" align=center />
+<br><br>
+<b>Figure 4.</b> Event classification, argument identification and argument role classification result on the ACE2005 test set.
+</p>
+
+<p align="center">
+<img src="./img/result_ablation.png" height = "250" alt="" align=center />
+<br><br>
+<b>Figure 5.</b> Ablation Study on Global Constraints.
+</p>
+
+
+
