@@ -5,7 +5,7 @@
 ![License CC BY-NC-SA](https://img.shields.io/badge/license-CC_BY--NC--SA--green.svg?style=plastic)
 
 This is the origin Pytorch implementation of RDEE in the following paper: 
-[Reinforcement Argument Ranking Guided Dialogue-based Event Extraction]()
+Reinforcement Argument Ranking Guided Dialogue-based Event Extraction
 
 <p align="center">
 <img src=".\img\Framework.png" height = "360" alt="" align=center />
