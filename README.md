@@ -45,9 +45,9 @@ unzip stanford-corenlp-full-2018-10-05.zip
 Event extraction requires extracting all arguments and their roles corresponding to each event. Doing so is challenging because an event is often associated with more than one argument whose role can vary in different contexts.
 
 <p align="center">
-<img src=".\img\example.png" height = "360" alt="" align=center />
+<img src=".\img\example.png" height = "200" alt="" align=center />
 <br><br>
-<b>Figure 1.</b> The architecture of RDEE.
+<b>Figure 1.</b> An example on ACE 2005.
 </p>
 
 
@@ -85,7 +85,7 @@ We evaluate event classification (EC), argument identification (AI), and role cl
 To demonstrate the key designs of our model, we conduct ablation tests by evaluating four variants in Table 2. The result shows that the four variants are significantly valuable
 in EC, AI, and RC tasks.
 <p align="center">
-<img src="./img/result_ablation.png" height = "250" alt="" align=center />
+<img src="./img/result_ablation.png" height = "200" alt="" align=center />
 <br><br>
 <b>Figure 4.</b> Ablation Study on Global Constraints.
 </p>
