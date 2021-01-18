@@ -56,20 +56,20 @@ Event extraction requires extracting all arguments and their roles corresponding
 ```bash
 
 # Settings
-1) TC\pybert\configs\basic_config.py
-2) AI_RC\config\args.py
+1) Event Classification: TC\pybert\configs\basic_config.py
+2) Argument Extraction: AI_RC\config\args.py
 
 # Event Classification
-1) python TC_preprocess.py
-2) python run_bert.py --do_data to preprocess data
-3) python run_bert.py --do_train --save_best
-4) python run_bert.py --do_test
+1) Preprocess: python TC_preprocess.py
+2) Data partition: python run_bert.py --do_data to preprocess data
+3) Train: python run_bert.py --do_train --save_best
+4) Test: python run_bert.py --do_test
 
 # Argument Extraction
-1) python AI_RC_preprocess.py
-2) python get_data.py
-3) python train_start.py
-4) python test.py
+1) Preprocess: python AI_RC_preprocess.py
+2) Data partition: python get_data.py
+3) Train: python train_start.py
+4) Test: python test.py
 
 ```
 
