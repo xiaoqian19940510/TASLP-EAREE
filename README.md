@@ -4,8 +4,8 @@
 ![cuDNN 7.3.1](https://img.shields.io/badge/cudnn-7.3.1-green.svg?style=plastic)
 ![License CC BY-NC-SA](https://img.shields.io/badge/license-CC_BY--NC--SA--green.svg?style=plastic)
 
-This is the origin Pytorch implementation of RDEE in the following paper: 
-Reinforcement Argument Ranking Guided Dialogue-based Event Extraction.
+This is the origin Pytorch implementation of EAREE in the following paper: 
+	Reinforcement Learning-based Dialogue Guided Event Extraction to Exploit Argument Relations.
 
 <p align="center">
 <img src=".\img\Framework.png" height = "360" alt="" align=center />
