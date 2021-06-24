@@ -11,7 +11,7 @@ This is the origin Pytorch implementation of EAREE in the following paper:
 <p align="center">
 <img src=".\img\Framework_.png" height = "360" alt="" align=center />
 <br><br>
-<b>Figure 1.</b> The architecture of RDEE.
+<b>Figure 1.</b> The architecture of EAREE.
 </p>
 
 
@@ -78,7 +78,7 @@ Event extraction requires extracting all arguments and their roles corresponding
 
 We evaluate event classification (EC), argument identification (AI), and role classification (RC) performance on the ACE dataset. The overall performance of our approach compared against the baseline methods is reported in Table 1, where the best results are shown in bold and “–” means not available. 
 <p align="center">
-<img src="./img/result.png" height = "300" alt="" align=center />
+<img src="./img/Table1.png" height = "300" alt="" align=center />
 <br><br>
 <b>Figure 3.</b> Event classification, argument identification and argument role classification result on the ACE2005 test set.
 </p>
