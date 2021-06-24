@@ -86,7 +86,7 @@ We evaluate event classification (EC), argument identification (AI), and role cl
 To demonstrate the key designs of our model, we conduct ablation tests by evaluating four variants in Table 2. The result shows that the four variants are significantly valuable
 in EC, AI, and RC tasks.
 <p align="center">
-<img src="./img/result_ablation.png" height = "150" alt="" align=center />
+<img src="./img/Table2.png" height = "150" alt="" align=center />
 <br><br>
 <b>Figure 4.</b> Ablation Study on Global Constraints.
 </p>
