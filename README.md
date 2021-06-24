@@ -9,7 +9,7 @@ This is the origin Pytorch implementation of EAREE in the following paper:
 	 
 	 
 <p align="center">
-<img src=".\img\Framework_.pdf" height = "360" alt="" align=center />
+<img src=".\img\Framework_.png" height = "360" alt="" align=center />
 <br><br>
 <b>Figure 1.</b> The architecture of RDEE.
 </p>
