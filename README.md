@@ -5,8 +5,9 @@
 ![License CC BY-NC-SA](https://img.shields.io/badge/license-CC_BY--NC--SA--green.svg?style=plastic)
 
 This is the origin Pytorch implementation of EAREE in the following paper: 
-	Reinforcement Learning-based Dialogue Guided Event Extraction to Exploit Argument Relations.
-
+	 <a href="https://arxiv.org/abs/2106.12384">Reinforcement Learning-based Dialogue Guided Event Extraction to Exploit Argument Relations, arXiv 2021 </a>
+	 
+	 
 <p align="center">
 <img src=".\img\Framework.png" height = "360" alt="" align=center />
 <br><br>
